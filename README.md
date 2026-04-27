@@ -8,7 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-# 🚀 Django Blog Application – Domebytes
 
 A full-featured **Django Blog Web Application** built with authentication, role-based dashboards, category management, search functionality, and commenting system.
 
