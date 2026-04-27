@@ -201,13 +201,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
----
 
-## 📸 Screenshots
-
-(Add screenshots here for better GitHub presentation)
-
----
 
 ## 🔐 Roles in System
 
